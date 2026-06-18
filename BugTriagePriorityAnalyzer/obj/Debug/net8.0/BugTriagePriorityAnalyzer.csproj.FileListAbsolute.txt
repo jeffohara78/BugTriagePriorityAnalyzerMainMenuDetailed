@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\bin\Debug\net8.0\BugTriagePriorityAnalyzer.exe
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\bin\Debug\net8.0\BugTriagePriorityAnalyzer.deps.json
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\bin\Debug\net8.0\BugTriagePriorityAnalyzer.runtimeconfig.json
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\bin\Debug\net8.0\BugTriagePriorityAnalyzer.dll
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\bin\Debug\net8.0\BugTriagePriorityAnalyzer.pdb
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\obj\Debug\net8.0\BugTriagePriorityAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\obj\Debug\net8.0\BugTriagePriorityAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\obj\Debug\net8.0\BugTriagePriorityAnalyzer.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\obj\Debug\net8.0\BugTriagePriorityAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\obj\Debug\net8.0\BugTriagePriorityAnalyzer.dll
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\obj\Debug\net8.0\refint\BugTriagePriorityAnalyzer.dll
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\obj\Debug\net8.0\BugTriagePriorityAnalyzer.pdb
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\obj\Debug\net8.0\BugTriagePriorityAnalyzer.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\BugTriagePriorityAnalyzer\BugTriagePriorityAnalyzer\obj\Debug\net8.0\ref\BugTriagePriorityAnalyzer.dll

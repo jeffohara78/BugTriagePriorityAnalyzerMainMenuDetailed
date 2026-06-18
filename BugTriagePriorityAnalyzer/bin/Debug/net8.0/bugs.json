@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1001,
+    "Title": "Password issue",
+    "Description": "Password won\u0027t work",
+    "ReportedBy": "Admin",
+    "UsersAffected": 1,
+    "BlocksUser": true,
+    "SecurityRisk": false,
+    "HasWorkaround": false,
+    "Priority": "High",
+    "Assessment": "This bug should be addressed soon because it affects important functionality or creates a poor user experience.",
+    "Status": "Open",
+    "DateReported": "2026-06-18T15:01:48.8238219-07:00",
+    "TriageSteps": [
+      "Assign the bug during the current sprint.",
+      "Reproduce the issue and document the steps.",
+      "Determine whether a temporary fix is needed.",
+      "Test the affected workflow before closing the issue.",
+      "Consider creating a temporary workaround for users."
+    ]
+  }
+]
